@@ -1,17 +1,10 @@
-
-/* Your CSS Code here. */
-body {
-    background-color: #ffffff;
-    font-family: Arial, sans-serif;
-}
-
-.box {
-    width: 300px;
-    padding: 50px;
-    border: 15px solid blue;
-    margin: 20px;
-    background-color: lightblue;
-    color: black;
-    font-size: 16px;
-    line-height: 1.5;
-}
+  .box {
+            width: 300px;
+            background-color: lightblue;
+            border: 15px solid blue;
+            padding: 50px;
+            margin: 20px;
+            /* Adding some additional styles for better text presentation */
+            font-family: Arial, sans-serif;
+            line-height: 1.5;
+        }
