@@ -1,2 +1,17 @@
 
 /* Your CSS Code here. */
+body {
+    background-color: #ffffff;
+    font-family: Arial, sans-serif;
+}
+
+.box {
+    width: 300px;
+    padding: 50px;
+    border: 15px solid blue;
+    margin: 20px;
+    background-color: lightblue;
+    color: black;
+    font-size: 16px;
+    line-height: 1.5;
+}
